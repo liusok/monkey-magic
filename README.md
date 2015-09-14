@@ -20,6 +20,6 @@ Q: How do I contribute?
 - A: Read the novel (40hrs), learn how to use git (2hrs), become familiar with fountain (1hr), start contributing.
 
 Q: What motivated you to make this an open-source project?
-- A: I've been interested in doing something like this for many years, I love working with other writers. Journey to the West is such a fantastic, epic story that evolved out of folk stories and borrowed narrative from Buddhism and Daoism, it seems like a perfect for a community writing effort.
+- A: I've been interested in doing something like this for many years, I love working with other writers. Journey to the West is such a fantastic, epic story that evolved out of folk stories and borrowed narrative from Buddhism and Daoism, it seems like a perfect fit for a community writing effort.
 
 See: https://en.wikipedia.org/wiki/Journey_to_the_West
