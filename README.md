@@ -11,10 +11,10 @@ Q: Will we get paid?
 - A: If the screenplay ever gets bought, we'll split the funds exactly according to how much each person contributed.
 
 Q: How long will the final screenplay be?
-- A: Too early to tell. Maybe six two hour parts?
+- A: Too early to tell. Maybe four two hour parts?
 
 Q: How long will this take?
-- A: No idea. I plan to contribute 1 page per day. So, without any help it will take approximately 2-3 years for a first draft of say a six part series. From nothing to a finished series of scripts will be approx. 2000-3000 hrs of work.
+- A: No idea. I plan to contribute 1 page per day. So, without any help it will take approximately 2-3 years for a first draft of say a four part series. From nothing to a finished series of scripts will be approx. 1000 hrs of work.
 
 Q: How do I contribute?
 - A: Read the novel (40hrs), learn how to use git (2hrs), become familiar with fountain (1hr), start contributing.
